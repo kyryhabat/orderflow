@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Database / local files
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Alembic
+migrations/versions/*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
